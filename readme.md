@@ -26,12 +26,12 @@ out variable * 10;
 
 Notice the syntax of the language above. Also, there are a few keywords:
 
-`viz <variableName>`  returns the visualization of a variable declaration.
+`viz <variableName>;`  returns the visualization of a variable declaration.
 
-`h_bytecode <variableName>` returns the high-level bytecode of a variable declaration.
+`h_bytecode <variableName>;` returns the high-level bytecode of a variable declaration.
 
-`bytecode <variableName>` returns the true bytecode of a variable declaration.
-`out <variableName>` will print out variables. 
+`bytecode <variableName>;` returns the true bytecode of a variable declaration.
+`out <variableName>;` will print out variables. 
 
 **Only `out` can perform mathematical operations in this language.**
 
