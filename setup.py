@@ -8,7 +8,7 @@ setup(
   author = 'Leo Carten',                   # Type in your name
   author_email = 'lcarten14@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/leocarten/lopl',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/leocarten/lopl/archive/v_01.tar.gz', 
+  download_url = 'https://github.com/leocarten/lopl/archive/refs/tags/v_01.tar.gz', 
   keywords = ['code visualizer', 'bytecode'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'dis'
