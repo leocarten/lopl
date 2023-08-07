@@ -4,7 +4,7 @@ setup(
   packages = ['LOPL'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = "LOPL stands for Leo's Own Programming Language and can be used to help visualize behind the scene functionality in your code. I created this programming language while reading Crafting Interpreters. It is a mix of C and JavaScript, but uses the Python Virtual Machine."
+  description = "LOPL stands for Leo's Own Programming Language and can be used to help visualize behind the scene functionality in your code. I created this programming language while reading Crafting Interpreters. It is a mix of C and JavaScript, but uses the Python Virtual Machine.",
   author = 'Leo Carten',                   # Type in your name
   author_email = 'lcarten14@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/leocarten/lopl',   # Provide either the link to your github or to your website
