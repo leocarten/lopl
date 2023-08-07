@@ -1,1 +1,1 @@
-hi
+LOPL stands for Leo's Own Programming Language and can be used to help visualize behind the scene functionality in your code. I created this programming language while reading Crafting Interpreters. It is a mix of C and JavaScript, but uses the Python Virtual Machine.
