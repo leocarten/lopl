@@ -64,3 +64,7 @@ def main():
 
 main()
 ```
+
+You are now ready to run `interp.py` and see the results.
+
+You treat `code.lopl` as the "source" code. Please, read the basic syntax above.
